@@ -207,6 +207,7 @@ fifth-section */
     }
     .parent-teams{
         flex-direction:column;
+        text-align: center;
     }
     .grid-items{
         grid-template-columns: repeat(1, 1fr);
@@ -226,18 +227,34 @@ fifth-section */
         justify-content: center;
         margin: 0 0;
     }
+    .architect-btn{
+        margin-left: 200px;
+        margin-top:100px;
+    }
+    label.logo{
+        padding: 0px 0px;
+    }
+    .shadow{
+        text-align: center;
+    }
+    .third-section{
+        margin: 0;
+        text-align: center;
+    }
+    .extra-section{
+       margin: 0 0 40px 0;
+
+    }
     .footer{
         display:flex;
         justify-content: center;
         text-align: center;
         align-items: center;
         padding:30px 100px;
-        margin-left:150px;
+        margin-left:100px;
+
     }
-    .architect-btn{
-        margin-left: 200px;
-        margin-top:100px;
-    }
+
 }
 
 
