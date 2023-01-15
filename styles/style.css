@@ -136,6 +136,9 @@ main
     font-weight:700px;
     font-size: 30px;
 }
+.architect-btn:hover{
+    color:#a18565
+}
 /* ----------------------------
 third-section
 ----------------------- */
